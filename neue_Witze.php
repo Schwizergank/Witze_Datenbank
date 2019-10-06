@@ -29,7 +29,7 @@
 	<form action="neue_Witze.php" method="POST"> 
 		Hier können Sie einen neuen Witz in die Datenbank einfügen. <br> <br>
 		Inhalt <br>   
-		<textarea name="text" cols="50" rows="10"></textarea>
+		<textarea name="text" cols="50" rows="10" autofocus></textarea>
 		<br>
 		<br> Kategorie: <br>
         <input type="Text" name="kategorie"> <br> 
